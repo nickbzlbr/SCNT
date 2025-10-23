@@ -1,0 +1,29 @@
+# Xcode / Swift / macOS
+DerivedData/
+build/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# SwiftPM
+.swiftpm/
+Packages/
+Package.resolved
+
+# User settings & schemes
+xcuserdata/
+
+# Fastlane & screenshots (optional)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Secrets
+*.xcconfig
+
+# Logs
+*.log
+
+# DS_Store
+.DS_Store
